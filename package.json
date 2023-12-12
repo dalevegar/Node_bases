@@ -1,0 +1,16 @@
+{
+  "name": "03_nodebases",
+  "version": "1.0.1",
+  "description": "app simple de pruebas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base7": "node app.js --base=7"
+  },
+  "author": "David Vega",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
